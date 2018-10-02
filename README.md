@@ -8,7 +8,8 @@
 
 ## How it works?
 
-![pagebone](https://user-images.githubusercontent.com/6127099/46318395-b49c7780-c5ac-11e8-8b3f-1b3c02d7dcde.gif)
+![pagebone](https://user-images.githubusercontent.com/6127099/46351364-890da180-c62d-11e8-90eb-0e2acc3b5ccc.gif)
+
 
 ## How to install
 
