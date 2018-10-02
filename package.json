@@ -1,0 +1,33 @@
+{
+  "name": "pagebone-cli",
+  "version": "1.0.0",
+  "description": "A simple CLI app to create new project using pagebone Boilerplate",
+  "main": "bin/index.js",
+  "bin": {
+    "pagebone-cli": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrstylle/pagebone-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "command line",
+    "boilerplate"
+  ],
+  "license": "MIT",
+  "preferGlobal": true,
+  "author": "José Rodrigues <jose.rodrigues.emailpessoal@gmail.com> (https://joserodrigues.me)",
+  "dependencies": {
+    "commander": "^2.18.0",
+    "download": "^7.1.0",
+    "ora": "^3.0.0",
+    "tree-directory": "^0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.0"
+  }
+}
