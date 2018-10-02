@@ -10,7 +10,7 @@ function help() {
   return console.log(`
 Usage: ${packageFile.name} [options] or [commands]
 
-A simple CLI app to create new project usign pagebone Boilerplate https://github.com/jrstylle/pagebone#readme
+A simple CLI app to create new project using pagebone Boilerplate https://github.com/jrstylle/pagebone#readme
 
 Options:
 
